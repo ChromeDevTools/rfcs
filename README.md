@@ -8,7 +8,7 @@ Some changes though are "substantial". These changes need to put through a bit o
 
 ## How to participate?
 
-Browse the [RFC list](/blob/main/CODE_OF_CONDUCT.md) and comment.
+Browse the [RFC list](https://github.com/ChromeDevTools/rfcs/discussions) and comment.
 
 ## Code of Conduct 
 
